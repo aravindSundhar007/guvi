@@ -1,7 +1,7 @@
 pon=float(input())
 if pon==0: 
-    print("zero")
+    print("Zero")
 elif pon>0:
     print("Positive")
 elif pon<0:
-    print("negative")    
+    print("Negative")    
