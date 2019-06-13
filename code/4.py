@@ -1,5 +1,5 @@
 ch=input()
 if (ord(ch)>=97 and ord(ch)<=122):
-    print("Alphabets")
+    print("Alphabet")
 else:
     print("No")
