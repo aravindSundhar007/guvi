@@ -2,10 +2,10 @@ nos=int(input())
 if nos%4==0:
         if nos%100==0:
             if nos%400==0:
-                print("Yes")
+                print("yes")
             else:
-                print("No")
+                print("no")
         else:       
-            print("Yes")
+            print("yes")
 else:
-    print("No")
+    print("no")
